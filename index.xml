@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ReaperWRB">
+  <category name="Various">
+    <reapack name="ReaperWRB" type="webinterface" desc="ReaperWRB (Web Remote Builder)">
+
+      <version name="2.2.2" author="michaelklier" time="2020-01-03T00:00:000">
+
+        <source file="reaperwrb.lua" main="main" type="script">https://bobobo-git.github.io/reaperwrb_2/script/reaperwrb.lua</source>
+
+        <source file="reaperwrb_2.html">http://m-klier.de/projects/reaperwrb/dist/2.2.2/reaperwrb_2.html</source>
+        <source file="reaperwrb_2/browserconfig.xml">https://bobobo-git.github.io/reaperwrb_2/browserconfig.xml</source>
+        <source file="reaperwrb_2/manifest.json">https://bobobo-git.github.io/reaperwrb_2/manifest.json</source>
+        <source file="reaperwrb_2/config.js">https://bobobo-git.github.io/reaperwrb_2/config.js</source>
+        
+        <source file="reaperwrb_2/js/app.js">https://bobobo-git.github.io/reaperwrb_2/js/app.js</source>
+        <source file="reaperwrb_2/js/app.js.map">https://bobobo-git.github.io/reaperwrb_2/js/app.js.map</source>
+        <source file="reaperwrb_2/js/manifest.js">https://bobobo-git.github.io/reaperwrb_2/js/manifest.js</source>
+        <source file="reaperwrb_2/js/manifest.js.map">https://bobobo-git.github.io/reaperwrb_2/js/manifest.js.map</source>
+        <source file="reaperwrb_2/js/vendor.js">https://bobobo-git.github.io/reaperwrb_2/js/vendor.js</source>
+        <source file="reaperwrb_2/js/vendor.js.map">https://bobobo-git.github.io/reaperwrb_2/js/vendor.js.map</source>
+
+        <source file="reaperwrb_2/icons/apple-touch-icon.png">https://bobobo-git.github.io/reaperwrb_2/icons/apple-touch-icon.png</source>
+        <source file="reaperwrb_2/icons/favicon.ico">https://bobobo-git.github.io/reaperwrb_2/icons/favicon.ico</source>
+        <source file="reaperwrb_2/icons/favicon.png">https://bobobo-git.github.io/reaperwrb_2/icons/favicon.png</source>
+        <source file="reaperwrb_2/icons/favicon-16x16.png">https://bobobo-git.github.io/reaperwrb_2/icons/favicon-16x16.png</source>
+        <source file="reaperwrb_2/icons/favicon-32x32.png">https://bobobo-git.github.io/reaperwrb_2/icons/favicon-32x32.png</source>
+        <source file="reaperwrb_2/icons/icon-57x57.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-57x57.png</source>
+        <source file="reaperwrb_2/icons/icon-60x60.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-60x60.png</source>
+        <source file="reaperwrb_2/icons/icon-72x72.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-72x72.png</source>
+        <source file="reaperwrb_2/icons/icon-76x76.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-76x76.png</source>
+        <source file="reaperwrb_2/icons/icon-96x96.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-96x96.png</source>
+        <source file="reaperwrb_2/icons/icon-120x120.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-120x120.png</source>
+        <source file="reaperwrb_2/icons/icon-128x128.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-128x128.png</source>
+        <source file="reaperwrb_2/icons/icon-144x144.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-144x144.png</source>
+        <source file="reaperwrb_2/icons/icon-152x152.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-152x152.png</source>
+        <source file="reaperwrb_2/icons/icon-167x167.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-167x167.png</source>
+        <source file="reaperwrb_2/icons/icon-180x180.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-180x180.png</source>
+        <source file="reaperwrb_2/icons/icon-192x192.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-192x192.png</source>
+        <source file="reaperwrb_2/icons/icon-384x384.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-384x384.png</source>
+        <source file="reaperwrb_2/icons/icon-512x512.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-512x512.png</source>
+        <source file="reaperwrb_2/icons/icon-reaper-offline-32x32.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-reaper-offline-32x32.png</source>
+        <source file="reaperwrb_2/icons/icon-reaper-online-32x32.png">https://bobobo-git.github.io/reaperwrb_2/icons/icon-reaper-online-32x32.png</source>
+        <source file="reaperwrb_2/icons/mstile-126x126.png">https://bobobo-git.github.io/reaperwrb_2/icons/mstile-126x126.png</source>
+        <source file="reaperwrb_2/icons/mstile-270x270.png">https://bobobo-git.github.io/reaperwrb_2/icons/mstile-270x270.png</source>
+        <source file="reaperwrb_2/icons/mstile-558x270.png">https://bobobo-git.github.io/reaperwrb_2/icons/mstile-558x270.png</source>
+        <source file="reaperwrb_2/icons/mstile-558x558.png">https://bobobo-git.github.io/reaperwrb_2/icons/mstile-558x558.png</source>
+        <source file="reaperwrb_2/icons/safari-pinned-tab.svg">https://bobobo-git.github.io/reaperwrb_2/icons/safari-pinned-tab.svg</source>
+        
+        <source file="reaperwrb_2/css/app.css">https://bobobo-git.github.io/reaperwrb_2/css/app.css</source>
+        <source file="reaperwrb_2/css/app.css.map">https://bobobo-git.github.io/reaperwrb_2/css/app.css.map</source>
+        <source file="reaperwrb_2/css/loader.css">https://bobobo-git.github.io/reaperwrb_2/css/loader.css</source>
+      <changelog><![CDATA[
+        - fixed marker / region modules
+        - minor cosmetic changes
+        ]]></changelog>
+      </version>
+
+      <version name="2.2.1" author="michaelklier" time="2019-09-09T00:00:000">
+
+        <source file="reaperwrb.lua" main="main" type="script">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/script/reaperwrb.lua</source>
+
+        <source file="reaperwrb_2.html">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2.html</source>
+        <source file="reaperwrb_2/browserconfig.xml">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/browserconfig.xml</source>
+        <source file="reaperwrb_2/manifest.json">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/manifest.json</source>
+        <source file="reaperwrb_2/config.js">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/config.js</source>
+        
+        <source file="reaperwrb_2/js/app.js">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/js/app.js</source>
+        <source file="reaperwrb_2/js/app.js.map">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/js/app.js.map</source>
+        <source file="reaperwrb_2/js/manifest.js">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/js/manifest.js</source>
+        <source file="reaperwrb_2/js/manifest.js.map">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/js/manifest.js.map</source>
+        <source file="reaperwrb_2/js/vendor.js">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/js/vendor.js</source>
+        <source file="reaperwrb_2/js/vendor.js.map">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/js/vendor.js.map</source>
+
+        <source file="reaperwrb_2/icons/apple-touch-icon.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/apple-touch-icon.png</source>
+        <source file="reaperwrb_2/icons/favicon.ico">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/favicon.ico</source>
+        <source file="reaperwrb_2/icons/favicon.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/favicon.png</source>
+        <source file="reaperwrb_2/icons/favicon-16x16.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/favicon-16x16.png</source>
+        <source file="reaperwrb_2/icons/favicon-32x32.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/favicon-32x32.png</source>
+        <source file="reaperwrb_2/icons/icon-57x57.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-57x57.png</source>
+        <source file="reaperwrb_2/icons/icon-60x60.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-60x60.png</source>
+        <source file="reaperwrb_2/icons/icon-72x72.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-72x72.png</source>
+        <source file="reaperwrb_2/icons/icon-76x76.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-76x76.png</source>
+        <source file="reaperwrb_2/icons/icon-96x96.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-96x96.png</source>
+        <source file="reaperwrb_2/icons/icon-120x120.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-120x120.png</source>
+        <source file="reaperwrb_2/icons/icon-128x128.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-128x128.png</source>
+        <source file="reaperwrb_2/icons/icon-144x144.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-144x144.png</source>
+        <source file="reaperwrb_2/icons/icon-152x152.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-152x152.png</source>
+        <source file="reaperwrb_2/icons/icon-167x167.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-167x167.png</source>
+        <source file="reaperwrb_2/icons/icon-180x180.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-180x180.png</source>
+        <source file="reaperwrb_2/icons/icon-192x192.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-192x192.png</source>
+        <source file="reaperwrb_2/icons/icon-384x384.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-384x384.png</source>
+        <source file="reaperwrb_2/icons/icon-512x512.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-512x512.png</source>
+        <source file="reaperwrb_2/icons/icon-reaper-offline-32x32.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-reaper-offline-32x32.png</source>
+        <source file="reaperwrb_2/icons/icon-reaper-online-32x32.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/icon-reaper-online-32x32.png</source>
+        <source file="reaperwrb_2/icons/mstile-126x126.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/mstile-126x126.png</source>
+        <source file="reaperwrb_2/icons/mstile-270x270.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/mstile-270x270.png</source>
+        <source file="reaperwrb_2/icons/mstile-558x270.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/mstile-558x270.png</source>
+        <source file="reaperwrb_2/icons/mstile-558x558.png">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/mstile-558x558.png</source>
+        <source file="reaperwrb_2/icons/safari-pinned-tab.svg">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/icons/safari-pinned-tab.svg</source>
+        
+        <source file="reaperwrb_2/css/app.css">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/css/app.css</source>
+        <source file="reaperwrb_2/css/app.css.map">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/css/app.css.map</source>
+        <source file="reaperwrb_2/css/loader.css">http://m-klier.de/projects/reaperwrb/dist/2.2.1/reaperwrb_2/css/loader.css</source>
+      <changelog><![CDATA[
+        - fixed html import
+        - updated help text
+        - minor cosmetic changes
+        ]]></changelog>
+      </version>
+
+      <version name="2.2" author="michaelklier" time="2019-09-09T00:00:000">
+
+        <source file="reaperwrb.lua" main="main" type="script">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/script/reaperwrb.lua</source>
+
+        <source file="reaperwrb_2.html">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2.html</source>
+        <source file="reaperwrb_2/browserconfig.xml">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/browserconfig.xml</source>
+        <source file="reaperwrb_2/manifest.json">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/manifest.json</source>
+        <source file="reaperwrb_2/config.js">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/config.js</source>
+        
+        <source file="reaperwrb_2/js/app.js">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/js/app.js</source>
+        <source file="reaperwrb_2/js/app.js.map">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/js/app.js.map</source>
+        <source file="reaperwrb_2/js/manifest.js">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/js/manifest.js</source>
+        <source file="reaperwrb_2/js/manifest.js.map">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/js/manifest.js.map</source>
+        <source file="reaperwrb_2/js/vendor.js">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/js/vendor.js</source>
+        <source file="reaperwrb_2/js/vendor.js.map">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/js/vendor.js.map</source>
+
+        <source file="reaperwrb_2/icons/apple-touch-icon.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/apple-touch-icon.png</source>
+        <source file="reaperwrb_2/icons/favicon.ico">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/favicon.ico</source>
+        <source file="reaperwrb_2/icons/favicon.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/favicon.png</source>
+        <source file="reaperwrb_2/icons/favicon-16x16.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/favicon-16x16.png</source>
+        <source file="reaperwrb_2/icons/favicon-32x32.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/favicon-32x32.png</source>
+        <source file="reaperwrb_2/icons/icon-57x57.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-57x57.png</source>
+        <source file="reaperwrb_2/icons/icon-60x60.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-60x60.png</source>
+        <source file="reaperwrb_2/icons/icon-72x72.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-72x72.png</source>
+        <source file="reaperwrb_2/icons/icon-76x76.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-76x76.png</source>
+        <source file="reaperwrb_2/icons/icon-96x96.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-96x96.png</source>
+        <source file="reaperwrb_2/icons/icon-120x120.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-120x120.png</source>
+        <source file="reaperwrb_2/icons/icon-128x128.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-128x128.png</source>
+        <source file="reaperwrb_2/icons/icon-144x144.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-144x144.png</source>
+        <source file="reaperwrb_2/icons/icon-152x152.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-152x152.png</source>
+        <source file="reaperwrb_2/icons/icon-167x167.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-167x167.png</source>
+        <source file="reaperwrb_2/icons/icon-180x180.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-180x180.png</source>
+        <source file="reaperwrb_2/icons/icon-192x192.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-192x192.png</source>
+        <source file="reaperwrb_2/icons/icon-384x384.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-384x384.png</source>
+        <source file="reaperwrb_2/icons/icon-512x512.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-512x512.png</source>
+        <source file="reaperwrb_2/icons/icon-reaper-offline-32x32.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-reaper-offline-32x32.png</source>
+        <source file="reaperwrb_2/icons/icon-reaper-online-32x32.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/icon-reaper-online-32x32.png</source>
+        <source file="reaperwrb_2/icons/mstile-126x126.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/mstile-126x126.png</source>
+        <source file="reaperwrb_2/icons/mstile-270x270.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/mstile-270x270.png</source>
+        <source file="reaperwrb_2/icons/mstile-558x270.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/mstile-558x270.png</source>
+        <source file="reaperwrb_2/icons/mstile-558x558.png">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/mstile-558x558.png</source>
+        <source file="reaperwrb_2/icons/safari-pinned-tab.svg">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/icons/safari-pinned-tab.svg</source>
+        
+        <source file="reaperwrb_2/css/app.css">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/css/app.css</source>
+        <source file="reaperwrb_2/css/app.css.map">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/css/app.css.map</source>
+        <source file="reaperwrb_2/css/loader.css">http://m-klier.de/projects/reaperwrb/dist/2.2/reaperwrb_2/css/loader.css</source>
+      <changelog><![CDATA[
+        - track context module
+        - marker / region module live update
+        - update command states periodically
+        - couple new icons
+        - minor style changes
+        - midi editor actions
+          in case of a manual install: copy
+            <REAPER>\reaper_www_root\reaperwrb_2\script\reaperwrb.lua
+          to
+            <REAPER>\Scripts\ReaperWRB\Various\reaperwrb.lua
+        ]]></changelog>
+      </version>
+      
+      <metadata>
+        <link rel="website">https://www.m-klier.de</link>
+        <description><![CDATA[{\rtf1 {\fonttbl {\f0 Helvetica;}} \f0\fs60 ReaperWRB lets you build custom REAPER web remote pages from REAPER toolbars.}]]></description>
+      </metadata>
+    </reapack>
+  </category>
+  <metadata>
+    <link rel="website">https://www.m-klier.de</link>
+    <link rel="donation" href="https://ko-fi.com/michaelklier">Like me work? Support me with coffee :)!</link>
+    <description><![CDATA[{\rtf1 {\fonttbl {\f0 Helvetica;}} \f0\fs60 ReaperWBR (Web Remote Builder) Repository}]]></description>
+  </metadata>
+</index>
