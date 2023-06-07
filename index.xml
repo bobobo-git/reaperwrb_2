@@ -58,13 +58,13 @@
       
       
       <metadata>
-          <link rel="website">https://gitlab.com/michaelklier/reaperwrb-2019/</link>
+          <link rel="website">https://hartung.studio/</link>
         <description><![CDATA[{\rtf1 {\fonttbl {\f0 Helvetica;}} \f0\fs60 ReaperWRB lets you build custom REAPER web remote pages from REAPER toolbars.}]]></description>
       </metadata>
     </reapack>
   </category>
   <metadata>
-    <link rel="website">https://gitlab.com/michaelklier/reaperwrb-2019/</link>
+    <link rel="website">https://hartung.studio/</link>
     <link rel="donation" href="https://ko-fi.com/michaelklier">Like me work? Support me with coffee :)!</link>
     <description><![CDATA[{\rtf1 {\fonttbl {\f0 Helvetica;}} \f0\fs60 ReaperWBR (Web Remote Builder) Repository}]]></description>
   </metadata>
